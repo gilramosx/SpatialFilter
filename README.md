@@ -1,6 +1,6 @@
 # SpatialFilter
 
-Description of the project goes here.
+The objective of this thesis is to provide a Graphical user interface (GUI) for the automation of Spatial filtering. The output beam is analyzed using Image processing tools from MATLAB, the analyzed image (live video input) is processed for generating the necessary commands for output voltages which manipulate the piezo actuators which modify the position of both, the pinhole and the objective in the system with the purpose of achieving the best possible alignment and position and therefore, get a clean beam output. This GUI is intended to be easily adjusted to perform this mentioned task for many different setups.
 
 
 # Example of FFT

@@ -20,7 +20,7 @@ Fraunhofer's diffraction simulation app.
    <img src="LiveFFT_app/GIFcircularaperture.gif" width="800">
 </p>
 <p float="left"> 
-   <img src="Diffraction/GIFsquareaperture.gif" width="800">
+   <img src="LiveFFT_app/GIFsquareaperture.gif" width="800">
 </p>
 
 # Example of FFT

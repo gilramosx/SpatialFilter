@@ -17,10 +17,10 @@ length from the objective, this will result in a perfect circular output beam pa
 Fraunhofer's diffraction simulation app. 
 
 <p float="left"> 
-   <img src="LiveFFT_app/GIFcircularaperture.gif" width="800">
+   <img src="Diffraction/GIFcircularaperture.gif" width="800">
 </p>
 <p float="left"> 
-   <img src="LiveFFT_app/GIFsquareaperture.gif" width="800">
+   <img src="Diffraction/GIFsquareaperture.gif" width="800">
 </p>
 
 # Example of FFT

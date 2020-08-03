@@ -6,11 +6,12 @@ The objective of this thesis is to provide a Graphical user interface (GUI) for 
 # Example of FFT
 Here is four examples of the FFT2 function applied to live stream video (single frames individually), showing different shapes representing different aperture shapes such as circular and squared. 
 
-<img src="LiveFFT_app/GIF-circleWhite.gif" width="700">
-<p float="left"> 
-   <img src="LiveFFT_app/GIF-circleWhite.gif" width="400">
-   <img src="LiveFFT_app/GIF-circleBlack.gif" width="400">
-</p>
+-<img src="LiveFFT_app/GIF-circleWhite.gif" width="700">
++<p float="left"> 
++   <img src="LiveFFT_app/GIF-circleWhite.gif" width="400">
++   <img src="LiveFFT_app/GIF-circleBlack.gif" width="400">
++</p>
+
 <p float="left">
   <img src="LiveFFT_app/GIF-square.gif" width="400">
   <img src="LiveFFT_app/GIF-star.gif" width="400">

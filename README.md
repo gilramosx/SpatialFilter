@@ -36,3 +36,12 @@ Here is four examples of the FFT2 function applied to live stream video (single 
   <img src="LiveFFT_app/GIFstar.gif" width="400">
 </p>
 
+# Main Application
+The Spatial Filter automation application has the main function to collect several images of the changes of the diffraction pattern at certain points and store them in an AxB array where:
+A=input voltage in the piezo for motion in the x-axis
+B=input voltage in the piezo for motion in the y-axis
+Such images are then processed to determine which position holds the best result.
+<p float="left"> 
+   <img src="MainApp/sequenceGIF_1.gif" width="400">
+   <img src="MainApp/sequenceGIF_2.gif" width="400">
+</p>
